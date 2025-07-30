@@ -18,8 +18,6 @@ This project demonstrates the power of generative AI for content creation and pr
 
 Experience BlogCraft live\! Click the link below to try it out:
 
-[**Live Demo Link: Your Vercel Deployment URL Here**](https://blogcraftai-001.streamlit.app/)
-
 
 
 ## **Technologies Used**
@@ -27,7 +25,7 @@ Experience BlogCraft live\! Click the link below to try it out:
 * **Frontend:** Streamlit (Python framework for web apps)  
 * **Backend/AI:** Google Gemini API (google-generativeai Python library)  
 * **Environment Management:** python-dotenv  
-* **Deployment:** Vercel
+* **Deployment:** Streamlit
 
 ## **Getting Started**
 
