@@ -14,11 +14,7 @@ This project demonstrates the power of generative AI for content creation and pr
 * **User-Friendly Interface:** Built with Streamlit for an intuitive and interactive web application experience.  
 * **Responsive Design:** Adapts to various screen sizes for a seamless experience on desktop and mobile.
 
-## **Demo**
 
-Experience BlogCraft live\! Click the link below to try it out:
-
-(https://blogcraftai-001.streamlit.app/)
 
 
 
