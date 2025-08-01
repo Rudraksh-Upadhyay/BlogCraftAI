@@ -8,7 +8,7 @@ This project demonstrates the power of generative AI for content creation and pr
 
 ## **DEMO**
 
-**LINK ->** {https://blogcraftai-74.streamlit.app/}
+👉 [Click here to try the app (hosted on Streamlit Cloud)](https://blogcraftai-74.streamlit.app/)
 
 ## **Features**
 
