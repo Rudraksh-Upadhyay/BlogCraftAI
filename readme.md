@@ -61,10 +61,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 4. **Set up your Google Gemini API Key:**  
    * Create a file named .env in the root of your project directory.  
-   * Add your Gemini API key to this file in the following format:  
-     GOOGLE\_API\_KEY='YOUR\_ACTUAL\_GEMINI\_API\_KEY'
+   * Add your OPENAI API key to this file in the following format:  
+     OPEN\_API\_KEY='YOUR\_ACTUAL\_OPENAI\_API\_KEY'
 
-     *(Replace YOUR\_ACTUAL\_GEMINI\_API\_KEY with the key you obtained from Google AI Studio).*
+     *(Replace YOUR\_ACTUAL\_OPENAI\_API\_KEY with the key you obtained from OPENAI).*
 
 ### **Running the Application Locally**
 
