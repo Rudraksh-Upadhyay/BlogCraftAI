@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 3. **Install the required Python packages:**  
    pip install \-r requirements.txt
 
-4. **Set up your Google Gemini API Key:**  
+4. **Set up your openAI API Key:**  
    * Create a file named .env in the root of your project directory.  
    * Add your OPENAI API key to this file in the following format:  
      OPEN\_API\_KEY='YOUR\_ACTUAL\_OPENAI\_API\_KEY'
