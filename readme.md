@@ -6,6 +6,10 @@ BlogCraft is a Streamlit-based web application that leverages Google's Gemini AI
 
 This project demonstrates the power of generative AI for content creation and provides a user-friendly interface for interacting with large language models.
 
+## **DEMO**
+
+**LINK ->** {https://blogcraftai-74.streamlit.app/}
+
 ## **Features**
 
 * **AI-Powered Text Generation:** Utilizes Google Gemini's gemini-1.5-flash model to generate high-quality blog post content.  
@@ -18,7 +22,7 @@ This project demonstrates the power of generative AI for content creation and pr
 ## **Technologies Used**
 
 * **Frontend:** Streamlit (Python framework for web apps)  
-* **Backend/AI:** Google Gemini API (google-generativeai Python library)  
+* **Backend/AI:** Open-AI api key 
 * **Environment Management:** python-dotenv  
 * **Deployment:** Streamlit
 
@@ -30,7 +34,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 * Python 3.9+ installed on your system.  
 * pip (Python package installer).  
-* A Google Gemini API Key (obtainable for free from [Google AI Studio](https://aistudio.google.com/app/apikey)).
+* gpt 4.1 api key
 
 ### **Installation**
 
